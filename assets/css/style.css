@@ -409,6 +409,8 @@ section{
 .expert .bg-img{
 	background-image: url(../images/note.jpeg);
 	background-position-x: 85%;
+	    background-position-y: 50%;
+    background-size: 90%;
 	height: 100%;
 }
 .expert .bg-img:after{
